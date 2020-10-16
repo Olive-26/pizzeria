@@ -1,6 +1,6 @@
 
 # Lou Malnati's Pizzeria
-#### This is a website of Lou Malnati's Pizzeria with its online order and delivery servises.
+#### This is a website of Lou Malnati's Pizzeria with its online order and delivery services.
 #### By **olive kaitesi**
 ## Technologies used
 * HTML
