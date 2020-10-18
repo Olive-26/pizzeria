@@ -1,5 +1,5 @@
 
-# Pizza Delicious.
+# Pizza Delious.
 #### This is a website of Pizza Delicious with its online order and delivery services.
 #### By **olive kaitesi**
 ## Technologies used
