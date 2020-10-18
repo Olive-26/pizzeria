@@ -16,7 +16,7 @@ $(document).ready(function() {
       var total = parseInt(orderSize) + parseInt(orderCrust) + parseInt(topping);
       var many = document.getElementById("many").value;
       var grandTotal= total*many;
-      document.getElementById("response").innerHTML="That will be "+grandTotal+" Rwf!🙂";
+      document.getElementById("response").innerHTML="That will be "+grandTotal+" Rwf!";
 
       $("#see").click(function(event){
         event.preventDefault();
