@@ -1,6 +1,6 @@
 
 # Pizza Delious.
-#### This is a website of Lou Malnati's Pizzeria with its online order and delivery services.
+#### This is a website of Pizza Delious with its online order and delivery services.
 #### By **olive kaitesi**
 ## Technologies used
 * HTML
